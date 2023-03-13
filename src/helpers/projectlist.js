@@ -56,8 +56,7 @@ const projects = [
     title: 'Gaming community',
     skills: 'React, Node.js, MongoDB',
     img: img6,
-    imgBig: imgBig6,
-    git: 'https://github.com/bgtvalex/gaming-community'
+    imgBig: imgBig6
   },
 ]
 

@@ -11,9 +11,9 @@ const Projects = () => {
             projects.map(item => {
               return <ProjectItem
                 key={item.id}
+                index={item.id}
                 title={item.title}
                 img={item.img}
-                
               />
               
             })
